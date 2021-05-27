@@ -1129,7 +1129,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@microsoft/api-documenter@^7.9.10":
+"@microsoft/api-documenter@^7.13.10":
   version "7.13.10"
   resolved "https://registry.yarnpkg.com/@microsoft/api-documenter/-/api-documenter-7.13.10.tgz#c1da533f29cfb875b25cf59407408a0ec73babe3"
   integrity sha512-Ey0xkV9HYaQjfpFZSgFyM5AW2/sFo8ev1uEHUqCWje/wjLbZjekk6Li+GDv7ggHoD9knQJItUkKdDjF8OIijWA==
@@ -1151,7 +1151,7 @@
     "@microsoft/tsdoc-config" "~0.15.2"
     "@rushstack/node-core-library" "3.38.0"
 
-"@microsoft/api-extractor@^7.10.4":
+"@microsoft/api-extractor@^7.15.2":
   version "7.15.2"
   resolved "https://registry.yarnpkg.com/@microsoft/api-extractor/-/api-extractor-7.15.2.tgz#7a06b857660e33d1cdc050d576eb6c6c05dc532a"
   integrity sha512-/Y/n+QOc1vM6Vg3OAUByT/wXdZciE7jV3ay33+vxl3aKva5cNsuOauL14T7XQWUiLko3ilPwrcnFcEjzXpLsuA==
